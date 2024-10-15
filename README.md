@@ -13,5 +13,4 @@ flutter run
 
 ## Screenshots
 
-! [Cheems Unlimited Video](https://github.com/Achintha444/cheems_unlimited/blob/main/assets/github/video.mp4)
 ![Cheems Unlimited](https://github.com/Achintha444/cheems_unlimited/blob/main/assets/github/screenshot.jpeg)
